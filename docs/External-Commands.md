@@ -1,3 +1,4 @@
+[session_log.txt](https://github.com/Homebrew/brew/files/8456398/session_log.txt)
 # External Commands
 
 Homebrew, like Git, supports *external commands*. This lets you create new commands that can be run like:
